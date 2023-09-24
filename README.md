@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20and%20Data%20Scientist;Experienced%20Machine Learning %2F Clinical Analysis%20;&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Machine Learning%20%20and%20Data%20Scientist;Experienced%20Health Informatics %2F Clinical Analysis%20;&font=Fira%20Code&center=true&width=740&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </p>
 <picture>
